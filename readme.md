@@ -1,4 +1,4 @@
-## DOCUMENTAÇÃO TÉCNICA: SISTEMA DE CIFRAGEM HÍBRIDA AES-DES
+## SISTEMA DE CIFRAGEM HÍBRIDA AES-DES
 
 Documento referente a implementação de um sistema de criptografia híbrida que combina os algoritmos **AES (Advanced Encryption Standard)** e **DES (Data Encryption Standard)** em duas arquiteturas distintas: **Cascata (Variante A)** e **Paralela (Variante B)**. O projeto foi desenvolvido em Python para atender aos requisitos de um trabalho acadêmico em Segurança de Sistemas Computacionais.
 
